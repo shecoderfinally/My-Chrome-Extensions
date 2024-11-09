@@ -15,6 +15,5 @@
 - **Links**: Update URLs directly in the HTML file under `<a href="">`.
 - **Font**: The app uses Google Fonts (`Open Sans`), easily changeable if you wish to personalize further.
 
-## Example Code
-Update any social media link by changing the `href` attribute in the HTML:
+
 
