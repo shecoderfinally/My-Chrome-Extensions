@@ -16,4 +16,4 @@
 - **Font**: The app uses Google Fonts (`Open Sans`), easily changeable if you wish to personalize further.
 
 
-
+<img src="mesoc.png">
